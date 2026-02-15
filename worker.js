@@ -8,7 +8,7 @@ export default {
     const headers = {
       "Content-Type": "text/plain; charset=utf-8",
       "profile-title": ":) VPN",
-      "Subscription-Userinfo": "upload=0;download=698351616;total=698351616;expire=253402289999",
+      "Subscription-Userinfo": "upload=0;download=715112054784;total=715112054784;expire=253402289999",
       "Cache-Control": "no-store, no-cache, must-revalidate",
       "Access-Control-Allow-Origin": "*"
     };

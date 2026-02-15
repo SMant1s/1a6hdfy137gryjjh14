@@ -7,7 +7,7 @@ export default {
 
     const headers = {
       "Content-Type": "text/plain; charset=utf-8",
-      "Subscription-Userinfo": "upload=0;download=0;total=107374182400;expire=1893456000",
+      "Subscription-Userinfo": "upload=0;download=0;total=0;expire=1893456000",
       "Cache-Control": "no-store, no-cache, must-revalidate",
       "Access-Control-Allow-Origin": "*"
     };
